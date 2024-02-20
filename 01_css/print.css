@@ -1,7 +1,7 @@
 /* universal selector (selects all elements) */
 
 * {
-  border: none;
+  border: none ;
 }
 
 html {
